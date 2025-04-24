@@ -13,6 +13,7 @@ Visualizing patterns and trends using Seaborn & Matplotlib
 Gaining insights into what factors might influence income levels
 
  Tools Used
+
 Python
 
 Pandas
